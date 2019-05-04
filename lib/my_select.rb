@@ -9,7 +9,7 @@ def my_select(collection)
    new_collection
 end
 
-end
+
 def my_collect(array) # put argument(s) here
    i = 0
    new_collection = []
